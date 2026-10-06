@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881528953659",
+    "project_id": "oasishousing",
+    "storage_bucket": "oasishousing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881528953659:android:a32ec538e27b158f4c751e",
+        "android_client_info": {
+          "package_name": "com.example.oasis_housing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUiUX-VV0qBZe6Kkgf_v1NfaSl-aIpYj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
